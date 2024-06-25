@@ -1,0 +1,14 @@
+.message {
+    display: flex;
+    align-items: center;
+    max-width: 70%; /* Adjust as needed */
+  }
+  
+  .justify-end {
+    justify-content: flex-end;
+  }
+  
+  .justify-start {
+    justify-content: flex-start;
+  }
+  
